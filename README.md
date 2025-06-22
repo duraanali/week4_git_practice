@@ -1,4 +1,1 @@
-# Let's Pratice Git
-
-
-1. Duraan
+# Let's Pratice Git, write down your name
